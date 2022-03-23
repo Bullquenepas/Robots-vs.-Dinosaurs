@@ -22,6 +22,7 @@ def display_welcome(self):
     for dino in self.herd.dinosaurs:
         print(f"{dino.name} - Health Points: {dino.health} Weapon Attack Power: {dino.attack_power}")
 
+#cant decide how to conduct fight! Re doing - ran out of time.
 def battle(self):
     pass
 
